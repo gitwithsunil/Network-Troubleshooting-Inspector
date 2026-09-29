@@ -39,8 +39,8 @@ The thresholds are defined in `nti/analyzer.py` and are easy to adjust for your 
 Requirements: Python 3.10 or newer.
 
 ```bash
-git clone <your-repository-url>
-cd nti
+git clone https://github.com/gitwithsunil/Network-Troubleshooting-Inspector.git
+cd Network-Troubleshooting-Inspector
 
 python -m venv venv
 # Windows:      venv\Scripts\activate
